@@ -88,9 +88,9 @@ a:active {
 		  <table width="442" border="0" cellspacing="0">
             <tr>
 			
-              <td width="156"><input type="submit" name="boutonOK" value="         Enregistrerrrrrrrrrrrrrr        " /></td>
+              <td width="156"><input type="submit" name="boutonOK" value="         Enregistrement        " /></td>
               <td width="282"><label>
-                <input type="reset" name="boutonEffacer" value="            Effacerrrrrrrrrrrrrrrrr          " />
+                <input type="reset" name="boutonEffacer" value="            Effacement         " />
               </label></td>
             </tr>
           </table></td>
