@@ -88,9 +88,9 @@ a:active {
 		  <table width="442" border="0" cellspacing="0">
             <tr>
 			
-              <td width="156"><input type="submit" name="boutonOK" value="         Enregistrer        " /></td>
+              <td width="156"><input type="submit" name="boutonOK" value="         Enregistrerrrrrrrrrrrrrr        " /></td>
               <td width="282"><label>
-                <input type="reset" name="boutonEffacer" value="            Effacer          " />
+                <input type="reset" name="boutonEffacer" value="            Effacerrrrrrrrrrrrrrrrr          " />
               </label></td>
             </tr>
           </table></td>
@@ -116,7 +116,7 @@ include('connexion2.php');
           $tab=array();
 		  
          if (isset($_POST['boutonOK'])){
-			    // Récupération normale des informations
+			    // RÃ©cupÃ©ration normale des informations
                 $departement=trim(addslashes($_POST['departement']));
 			    $RSR=trim(addslashes($_POST['RSR']));
 			    $Rendezvous=trim(addslashes($_POST['Rendezvous']));
@@ -127,7 +127,7 @@ include('connexion2.php');
 		
 				
 				   $requete="INSERT INTO 
-				     `tab_préstationlundi`(
+				     `tab_prÃ©stationlundi`(
 					 `departement` ,
 					 `RSR`,
 					 `Rendez-vous`,
