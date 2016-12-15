@@ -34,7 +34,7 @@ body,td,th {
 <p>&nbsp;</p>
 <table width="339" border="1" align="center" cellpadding="0" cellspacing="5" bordercolor="#FFFFFF">
   <tr>
-    <td width="325" height="40"><div align="center"><strong><a href="affichage_tarif.php">Afficher Les Tarifs </a></strong></div></td>
+    <td width="325" height="40"><div align="center"><strong><a href="affichage_tarif.php">Afficher Les Tarifsdddddddd </a></strong></div></td>
   </tr>
   <tr>
     <td height="40"><div align="center"><strong><a href="affichage_prestation_lundi.php">Afficher Les Prestations </a></strong></div></td>
